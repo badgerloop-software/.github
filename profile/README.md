@@ -2,6 +2,8 @@
 Welcome to our GitHub organization! 
 This organisation contains the **SoFi (Software, Firmware, and Race Strategy)** teams' work for the Electrical team.
 
+![Car 1](BSRCAR.jpeg)
+
 ---
 
 ## Getting Started
@@ -30,13 +32,11 @@ This repo covers:
 
 Each subteam (Software, Firmware, Race Strategy) maintains its own set of repositories.
 
-👉 **Refer to your team’s dedicated Confluence page** to view:
+👉 **Refer to your team’s dedicated Confluence page(s)** to view:
 - Active repositories
 - Architecture diagrams
 - Setup instructions
-- Team-specific documentation
 
 ---
 
-If you have questions, reach out to your team lead or ask in your team’s Microsoft Teams channel.  
-Welcome aboard — we’re excited to have you building with us! ☀️🏎️
+If you have questions, reach out to your team lead directly or ask in your team’s Microsoft Teams channel.  
