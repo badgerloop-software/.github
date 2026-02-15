@@ -28,14 +28,22 @@ This repo covers:
 
 ---
 
+## Apply for GitHub Education Plan for Students (Optional but recommended)
+👉 *[[Link to GitHub Education Application](https://github.com/education/students)]*
+
+- You will get access to the Student Developer Pack and GitHub Copilot Pro for free
+- You will be required to send a picture of your Wiscard to verify student status, expect to wait 1-3 days for approval.
+
+---
+
 ## Active Repositories
 
 Each subteam (Software, Firmware, Race Strategy) maintains its own set of repositories.
 
-👉 **Refer to your team’s dedicated Confluence page(s)** to view:
+👉 **Refer to your team’s dedicated page(s) on Confluence** to view:
 - Active repositories
+- New Member Resources and Setup instructions
 - Architecture diagrams
-- Setup instructions
 
 ---
 
