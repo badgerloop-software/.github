@@ -1,6 +1,6 @@
 # Welcome to Badger Solar Racing!
 Welcome to our GitHub organization! 
-This organisation contains the **SoFi (Software, Firmware, and Race Strategy)** teams' work for the Electrical team.
+This organisation contains the **SoFi (Software, Firmware, and Race Strategy)** subteams' work for the Electrical team.
 
 ![Car 2](BSRCAR2.JPG)
 
@@ -40,10 +40,9 @@ This repo covers:
 
 Each subteam (Software, Firmware, Race Strategy) maintains its own set of repositories.
 
-👉 **Refer to your team’s dedicated page(s) on Confluence** to view:
+👉 **Refer to your team’s page(s) on Confluence** to view:
 - Active repositories
 - New Member Resources and Setup instructions
-- Architecture diagrams
 
 ---
 
