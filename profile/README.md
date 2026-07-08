@@ -2,7 +2,7 @@
 Welcome to our GitHub organization! 
 This organisation contains the **SoFi (Software, Firmware, and Race Strategy)** teams' work for the Electrical team.
 
-![Car 1](BSRCAR.jpeg)
+![Car 2](BSRCAR2.JPG)
 
 ---
 
